@@ -1,0 +1,15 @@
+{
+  "schema": "road2-850k.sim006.anchor.v1",
+  "round_id": "L2-SIM-006",
+  "anchor_sha256": "f3a4341088a2e8642c64f8f4a020a2314df2329125064419ee8c828cf3c7a8e4",
+  "anchor_source": "Google Drive same-owner anchor file 1UbGE-ZzJdsAqykFPeAbapKwqJOnWRCUY",
+  "observed_creation_local": "2026-11-17 00:29:46 Asia/Bangkok",
+  "observed_readback_local": "2026-11-17 00:30:13 Asia/Bangkok",
+  "scope": "simulated A/B sandbox NO BET",
+  "limitations": [
+    "Source Drive file is mutable",
+    "GitHub repository owner/admin can rewrite history; commit is not WORM or independently timestamped",
+    "No independent analyst identities verified"
+  ],
+  "secrets_included": false
+}
